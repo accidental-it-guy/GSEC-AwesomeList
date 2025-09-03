@@ -74,7 +74,7 @@ So, you’re gearing up for the **GIAC Security Essentials Certification (GSEC)*
 
 ### **8️⃣ How to Actually Pass This Thing** 
 ✔ **Take Notes & Create an Bitchin' Index (GSEC is Open Book!)**  
-✔ **Add Side Titles to Your Index (Thank Me Later)**  
+✔ **Add Slide Titles to Your Index (Thank Me Later)**  
 ✔ **Practice with Hands-On Labs, Write Short Lab Walkthroughs (Get super comfy with tcpdump, nmap, snort, & zeek)**    
 ✔ **Join Study Groups & Cybersecurity Forums for Support - Strength Through Community**  
 ✔ **Strategically Use Your Skips and Leave Time for Labs — The Exam is only 4 Hours!**  
